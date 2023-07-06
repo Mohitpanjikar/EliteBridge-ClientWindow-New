@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ItemBasket</class>
+ <widget class="QDialog" name="ItemBasket">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>554</width>
+    <height>391</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2">
+   <item row="0" column="0" colspan="2">
+    <widget class="QLabel" name="label">
+     <property name="styleSheet">
+      <string notr="true">font: 300 12pt &quot;Segoe UI Variable Small Light&quot;;
+color: Black;</string>
+     </property>
+     <property name="text">
+      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Withdraw : Item Basket : Choose Function Below&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0" colspan="2">
+    <widget class="QTableWidget" name="tableWidget">
+     <column>
+      <property name="text">
+       <string>Item</string>
+      </property>
+      <property name="font">
+       <font>
+        <family>Segoe UI Variable</family>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Description</string>
+      </property>
+      <property name="font">
+       <font>
+        <family>Segoe UI Variable</family>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Qty</string>
+      </property>
+      <property name="font">
+       <font>
+        <family>Segoe UI Variable</family>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Alias</string>
+      </property>
+      <property name="font">
+       <font>
+        <family>Segoe UI Variable</family>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Issue Qty</string>
+      </property>
+      <property name="font">
+       <font>
+        <family>Segoe UI Variable</family>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Supplier</string>
+      </property>
+     </column>
+    </widget>
+   </item>
+   <item row="2" column="0">
+    <widget class="QLabel" name="label_2">
+     <property name="styleSheet">
+      <string notr="true">font: 300 10pt &quot;Segoe UI Variable Small Light&quot;;
+Color:Black;
+</string>
+     </property>
+     <property name="text">
+      <string> Item ID</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QLineEdit" name="lineEdit_ID"/>
+   </item>
+   <item row="3" column="0">
+    <widget class="QLabel" name="label_3">
+     <property name="styleSheet">
+      <string notr="true">font: 300 10pt &quot;Segoe UI Variable Small Light&quot;;
+Color:Black;
+</string>
+     </property>
+     <property name="text">
+      <string> Withdraw Count</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="1">
+    <widget class="QLineEdit" name="lineEdit_Value_2"/>
+   </item>
+   <item row="4" column="0" colspan="2">
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="0">
+      <widget class="QPushButton" name="pushButton">
+       <property name="styleSheet">
+        <string notr="true">font: 300 9pt &quot;Segoe UI Variable Small Light&quot;;
+Color:Black;
+background-color:#7FFFD4 ;</string>
+       </property>
+       <property name="text">
+        <string>Add Another Item</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPushButton" name="pushButton_2">
+       <property name="styleSheet">
+        <string notr="true">background-color: #66FF99;
+color: black;
+font: 300 10pt &quot;Segoe UI Variable Small Light&quot;;
+</string>
+       </property>
+       <property name="text">
+        <string>Withdraw</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QPushButton" name="Refresh">
+       <property name="styleSheet">
+        <string notr="true">font: 300 9pt &quot;Segoe UI Variable Small Light&quot;;
+color: Black;
+background-color:#EE204D;</string>
+       </property>
+       <property name="text">
+        <string>Refresh Data</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="3">
+      <widget class="QPushButton" name="pushButton_4">
+       <property name="styleSheet">
+        <string notr="true">font: 300 9pt &quot;Segoe UI Variable Small Light&quot;;
+Color:Black;
+background-color:#7FFFD4 ;</string>
+       </property>
+       <property name="text">
+        <string>Log Off</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
