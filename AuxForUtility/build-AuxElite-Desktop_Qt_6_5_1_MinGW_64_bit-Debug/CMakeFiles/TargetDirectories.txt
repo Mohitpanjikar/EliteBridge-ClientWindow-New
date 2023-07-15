@@ -1,0 +1,9 @@
+D:/Aux For Utility/build-AuxElite-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/AuxElite.dir
+D:/Aux For Utility/build-AuxElite-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Aux For Utility/build-AuxElite-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Aux For Utility/build-AuxElite-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Aux For Utility/build-AuxElite-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Aux For Utility/build-AuxElite-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Aux For Utility/build-AuxElite-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Aux For Utility/build-AuxElite-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/AuxElite_autogen_timestamp_deps.dir
+D:/Aux For Utility/build-AuxElite-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/AuxElite_autogen.dir
