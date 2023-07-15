@@ -1,0 +1,9 @@
+D:/MachineSetup/Machine/build-Machine-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/Machine.dir
+D:/MachineSetup/Machine/build-Machine-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/MachineSetup/Machine/build-Machine-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/MachineSetup/Machine/build-Machine-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/MachineSetup/Machine/build-Machine-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/MachineSetup/Machine/build-Machine-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/MachineSetup/Machine/build-Machine-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/MachineSetup/Machine/build-Machine-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/Machine_autogen_timestamp_deps.dir
+D:/MachineSetup/Machine/build-Machine-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/Machine_autogen.dir
